@@ -11,7 +11,7 @@
 			<read>creator</read>
 			<write>nobody</write>
 			<fields>
-				<field>black</field>
+				<field>white</field>
 				<field>groups</field>
 				<field>token</field>
 			</fields>
@@ -36,7 +36,7 @@
 		</schemaAcl>
 	</aclGroups>
 	<fields>
-		<field name="black" type="string" />
+		<field name="white" type="string" />
 		<field name="name" type="string" />
 		<field name="groups" type="string" />
 		<field name="password" type="string" />
