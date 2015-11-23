@@ -1,14 +1,11 @@
-<script>
-<scriptACL>
-<execute>all</execute>
-<read>all</read>
-<write>all</write>
-</scriptACL>
-<code> 
-<![CDATA[	
+/** Script ACLs do not delete 
+ read=all 
+write=all
+execute=all 
+  **/ 
+ 
+	
          
-return "black";
+return "white";
 
-]]>
-</code>
-</script>
+
