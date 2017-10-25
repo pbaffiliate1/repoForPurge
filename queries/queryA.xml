@@ -1,5 +1,5 @@
 <query>
-	<executeACL>black</executeACL>
+	<executeACL>white</executeACL>
 	<condition><![CDATA[ x!="y" ]]></condition>
 	<returnedFields><field>*</field></returnedFields>
 	<count>true</count>
